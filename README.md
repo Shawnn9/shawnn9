@@ -13,11 +13,12 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shawn-eliezer-5b588a174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shawn-eliezer-5b588a174/" height="30" width="40" /></a>
 <a href="https://instagram.com/shh9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shh9" height="30" width="40" /></a>
+<a href="https://twitter.com/_shxwne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_shxwne" height="30" width="40" /></a>
 </p>
 
 ---
 
-## Most Known Languages
+## Most Known Skills
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Programming-yellowgreen" alt="Python" />
@@ -32,10 +33,12 @@
 
 ---
 
-## Familiar Languages
+## Familiar Skills
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/-C++-46a2f1?style=flat-square&logo=c&logoColor=white" />
+<img alt="SQL" src="https://img.shields.io/badge/-SQL-46a2f1?style=flat-square&logo=database&logoColor=white" />
 </div>
 
 ---
@@ -68,7 +71,7 @@
 <div style="display: flex; justify-content: space-between; gap: 20px; padding: 20px;">
   <!-- GitHub Stats Block -->
   <div style="flex: 1; max-width: 38%; height: 38%; display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=shawnn9&show_icons=true&include_all_commits=true&theme=transparent&title_color=ffffff&icon_color=3498db&text_color=9f9f9f&bg_color=0a0a0a&cache_seconds=3200" alt="GitHub Stats" style="width: 38%; height: 38%; object-fit: contain;" />
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shawnn9&layout=compact&theme=transparent&title_color=ffffff&icon_color=3498db&text_color=9f9f9f&bg_color=0a0a0a" alt="Top Languages" style="width: 38%; height: 38%; object-fit: contain;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=shawnn9&show_icons=true&locale=en" alt="shawnn9" alt="GitHub Stats" style="width: 40%; height: 38%; object-fit: contain;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shawnn9&show_icons=true&locale=en&layout=compact" alt="shawnn9" alt="Top Languages" style="width: 38%; height: 80%; object-fit: contain;" />
   </div>
 </div>
