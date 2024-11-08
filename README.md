@@ -1,12 +1,19 @@
-## Hey! I'm Shawn Eliezer 👋
+<h1 align="center">Hi 👋, I'm Shawn</h1>
+<h3 align="center">Full Stack Developer</h3>
 
-#### I'm a Full Stack Developer 🤖 from Israel 🇮🇱.
-Currently working on improving my skills and contributing to open-source projects. Always learning, always growing. Self-assessment: *C+* 🌱
+- 🔭 I’m currently working on **IDF**
 
-You can find me on:
+- 🌱 I’m currently learning **React.js**
 
-- 🌎 My Web [Shawneliezer.co](https://shawneliezer.co/)
-- 👨‍💼 On [LinkedIn](https://www.linkedin.com/in/shawn-eliezer/)
+- 💬 Ask me about **MERN**
+
+- 📫 How to reach me **shawneliezer@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shawn-eliezer-5b588a174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shawn-eliezer-5b588a174/" height="30" width="40" /></a>
+<a href="https://instagram.com/shh9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shh9" height="30" width="40" /></a>
+</p>
 
 ---
 
