@@ -9,11 +9,15 @@
 
 - 📫 How to reach me **shawneliezer@gmail.com**
 
+- 🌐 Visit my website: [shawneliezer.co](https://shawneliezer.co/)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shawn-eliezer-5b588a174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shawn-eliezer-5b588a174/" height="30" width="40" /></a>
 <a href="https://instagram.com/shh9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shh9" height="30" width="40" /></a>
 <a href="https://twitter.com/_shxwne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_shxwne" height="30" width="40" /></a>
+  
 </p>
 
 ---
@@ -72,6 +76,6 @@
   <!-- GitHub Stats Block -->
   <div style="flex: 1; max-width: 38%; height: 38%; display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=shawnn9&show_icons=true&locale=en" alt="shawnn9" alt="GitHub Stats" style="width: 40%; height: 38%; object-fit: contain;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shawnn9&show_icons=true&locale=en&layout=compact" alt="shawnn9" alt="Top Languages" style="width: 38%; height: 80%; object-fit: contain;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shawnn9&show_icons=true&locale=en&layout=compact" alt="shawnn9" alt="Top Languages" style="width: 36%; height: 38%; object-fit: contain;" />
   </div>
 </div>
