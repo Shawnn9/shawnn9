@@ -1,3 +1,5 @@
+![Banner](https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif)
+
 <h1 align="center">Hi 👋, I'm Shawn</h1>
 <h3 align="center">Full Stack Developer</h3>
 
@@ -65,9 +67,11 @@
 ---
 
 ## Debugging
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
-  <img src="https://img.shields.io/badge/Debugging-%E2%9A%A0%EF%B8%8F-FF6347?style=flat-square" alt="Debugging" />
+<div style="display: flex; gap: 20px; justify-content: center;">
+  <img src="https://img.shields.io/badge/pycharm%20debugger%E2%9A%A0%EF%B8%8F-FF6347?style=flat-square" alt="PyCharm Debugging" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Debugger%E2%9A%A0%EF%B8%8F-FF6347?style=flat-square" alt="Visual Studio Debugging" />
 </div>
+
 
 ---
 
