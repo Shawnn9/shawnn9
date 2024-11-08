@@ -1,6 +1,5 @@
-![Banner](https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif)
 
-<h1 align="center">Hi 👋, I'm Shawn</h1>
+<h1 align="center">Hey 👋, I'm Shawn</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 - 🔭 I’m currently serving in a **special unit** in the **IDF**
