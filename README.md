@@ -2,7 +2,7 @@
 <h1 align="center">Hey 👋, I'm Shawn</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently serving in a **special unit** in the **IDF**
+- 🔭 I’m currently working in  **Moonactive**
 
 
 - 🌱 I’m currently learning **React.js**
