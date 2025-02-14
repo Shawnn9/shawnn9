@@ -1,11 +1,11 @@
 
 <h1 align="center">Hey 👋, I'm Shawn</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Game Developer</h3>
 
 - 🔭 I’m currently working in  **Moonactive**
 
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **pixi.js**
 
 - 💬 Ask me about **MERN**
 
