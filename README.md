@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shawneliezer@gmail.com**
 
-- 🌐 Visit my website: [shawneliezer.co](https://shawneliezer.com/)
+- 🌐 Visit my website: [shawneliezer.com](https://shawneliezer.com/)
 
 
 <h3 align="left">Connect with me:</h3>
